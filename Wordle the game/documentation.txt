@@ -1,0 +1,14 @@
+this game is a cs50 assignment, it is not entirely made by me, nor it is owned by anyone.
+
+To run the game, double click on the run file, and type "wordle.exe <number between 5 and 8>"
+the number you choose will be the number of letters of the word you will be trying to find.
+
+color codes:
+
+RED 	===> letter not present in the word
+YELLOW 	===> letter present, but its not the right place
+GREEN	===> letter is in the correct place in the word
+
+
+hope you enjoy!
+Hazem
